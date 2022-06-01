@@ -2,7 +2,7 @@
 <h3 align="center">I am a software engineer passionate about data</h3>
 
 - 🌱 I’m currently learning **MERN stack**
-- 
+
 - 🔭 I’m working on **an intuitive app to track medicinal cannabis usage**
 
 - 👯 I’m looking to collaborate on **open-source projects**
