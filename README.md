@@ -1,4 +1,4 @@
-<h1 align="center">Hello <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="30px">, I'm Amethyst</h1>
+<h1 align="center">Hello, I'm Amethyst</h1>
 <h3 align="center">I am a software engineer with a passion for data</h3>
 
 - 🌱 I’m currently learning **MERN stack**
