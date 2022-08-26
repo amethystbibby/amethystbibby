@@ -5,8 +5,6 @@
 
 - 📚 Background in mathematics and computer science
 
-- 🔭 I’m working on **an intuitive app to track medicinal cannabis usage**
-
 - 👯 I’m looking to collaborate on **open-source projects**
 
 - 🤝 Here to help with web development and data analysis projects
